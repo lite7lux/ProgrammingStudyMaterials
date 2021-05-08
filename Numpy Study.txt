@@ -1,0 +1,2 @@
+1. Lynda NumPy Course
+2. NumPy Documentation
